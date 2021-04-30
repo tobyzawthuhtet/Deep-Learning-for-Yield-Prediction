@@ -1,0 +1,480 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Assam,BAKSA,2011,Autumn     ,Paddy,10325,14340
+Assam,BAKSA,2011,Summer     ,Paddy,2500,5595
+Assam,BAKSA,2011,Winter     ,Paddy,85450,153149
+Assam,BAKSA,2012,Autumn     ,Paddy,11780,16636
+Assam,BAKSA,2012,Winter     ,Paddy,85485,157009
+Assam,BAKSA,2013,Autumn     ,Paddy,10200,16672
+Assam,BAKSA,2013,Summer     ,Paddy,2750,5885
+Assam,BAKSA,2013,Winter     ,Paddy,85730,161484
+Assam,BAKSA,2014,Autumn     ,Paddy,10800,18283
+Assam,BAKSA,2014,Summer     ,Paddy,3050,6509
+Assam,BAKSA,2014,Winter     ,Paddy,86070,195027
+Assam,BARPETA,2011,Autumn     ,Paddy,27987,13767
+Assam,BARPETA,2011,Summer     ,Paddy,51708,174318
+Assam,BARPETA,2011,Winter     ,Paddy,78281,110441
+Assam,BARPETA,2012,Autumn     ,Paddy,6346,1075
+Assam,BARPETA,2012,Winter     ,Paddy,66597,107022
+Assam,BARPETA,2013,Autumn     ,Paddy,19191,16796
+Assam,BARPETA,2013,Summer     ,Paddy,47877,158072
+Assam,BARPETA,2013,Winter     ,Paddy,67630,123146
+Assam,BARPETA,2014,Autumn     ,Paddy,17551,18634
+Assam,BARPETA,2014,Summer     ,Paddy,49261,141830
+Assam,BARPETA,2014,Winter     ,Paddy,69154,102046
+Assam,BONGAIGAON,2011,Autumn     ,Paddy,15953,17728
+Assam,BONGAIGAON,2011,Summer     ,Paddy,10507,31151
+Assam,BONGAIGAON,2011,Winter     ,Paddy,36205,48899
+Assam,BONGAIGAON,2012,Autumn     ,Paddy,12922,16900
+Assam,BONGAIGAON,2012,Winter     ,Paddy,35931,57117
+Assam,BONGAIGAON,2013,Autumn     ,Paddy,11021,17595
+Assam,BONGAIGAON,2013,Summer     ,Paddy,13070,38727
+Assam,BONGAIGAON,2013,Winter     ,Paddy,32690,66164
+Assam,BONGAIGAON,2014,Autumn     ,Paddy,5865,7909
+Assam,BONGAIGAON,2014,Summer     ,Paddy,11685,38969
+Assam,BONGAIGAON,2014,Winter     ,Paddy,35299,69061
+Assam,CACHAR,2011,Autumn     ,Paddy,7700,13116
+Assam,CACHAR,2011,Summer     ,Paddy,7990,14971
+Assam,CACHAR,2011,Winter     ,Paddy,90682,177981
+Assam,CACHAR,2012,Autumn     ,Paddy,7680,15518
+Assam,CACHAR,2012,Winter     ,Paddy,91912,202725
+Assam,CACHAR,2013,Autumn     ,Paddy,6430,10288
+Assam,CACHAR,2013,Summer     ,Paddy,7700,12958
+Assam,CACHAR,2013,Winter     ,Paddy,82347,153041
+Assam,CACHAR,2014,Autumn     ,Paddy,6752,13796
+Assam,CACHAR,2014,Summer     ,Paddy,8235,16088
+Assam,CACHAR,2014,Winter     ,Paddy,92895,216009
+Assam,CHIRANG,2011,Autumn     ,Paddy,15177,17161
+Assam,CHIRANG,2011,Summer     ,Paddy,442,1106
+Assam,CHIRANG,2011,Winter     ,Paddy,35480,42430
+Assam,CHIRANG,2012,Autumn     ,Paddy,17722,22966
+Assam,CHIRANG,2012,Winter     ,Paddy,36176,50867
+Assam,CHIRANG,2013,Autumn     ,Paddy,8879,11707
+Assam,CHIRANG,2013,Summer     ,Paddy,2727,6025
+Assam,CHIRANG,2013,Winter     ,Paddy,35250,58207
+Assam,CHIRANG,2014,Autumn     ,Paddy,6255,6553
+Assam,CHIRANG,2014,Summer     ,Paddy,3413,8114
+Assam,CHIRANG,2014,Winter     ,Paddy,35857,58189
+Assam,DARRANG,2011,Autumn     ,Paddy,11823,19359
+Assam,DARRANG,2011,Summer     ,Paddy,19394,56669
+Assam,DARRANG,2011,Winter     ,Paddy,48505,105445
+Assam,DARRANG,2012,Autumn     ,Paddy,7620,10527
+Assam,DARRANG,2012,Winter     ,Paddy,48808,97931
+Assam,DARRANG,2013,Autumn     ,Paddy,3616,4050
+Assam,DARRANG,2013,Summer     ,Paddy,17837,64285
+Assam,DARRANG,2013,Winter     ,Paddy,48236,92981
+Assam,DARRANG,2014,Autumn     ,Paddy,3304,4990
+Assam,DARRANG,2014,Summer     ,Paddy,17356,65241
+Assam,DARRANG,2014,Winter     ,Paddy,48413,102861
+Assam,DHEMAJI,2011,Autumn     ,Paddy,9305,7164
+Assam,DHEMAJI,2011,Summer     ,Paddy,2172,3848
+Assam,DHEMAJI,2011,Winter     ,Paddy,67265,96573
+Assam,DHEMAJI,2012,Autumn     ,Paddy,9075,12021
+Assam,DHEMAJI,2012,Winter     ,Paddy,68005,110152
+Assam,DHEMAJI,2013,Autumn     ,Paddy,9630,14723
+Assam,DHEMAJI,2013,Summer     ,Paddy,4420,8883
+Assam,DHEMAJI,2013,Winter     ,Paddy,68300,105539
+Assam,DHEMAJI,2014,Autumn     ,Paddy,9379,12595
+Assam,DHEMAJI,2014,Summer     ,Paddy,8500,12823
+Assam,DHEMAJI,2014,Winter     ,Paddy,67660,106274
+Assam,DHUBRI,2011,Autumn     ,Paddy,4380,2710
+Assam,DHUBRI,2011,Summer     ,Paddy,52700,168047
+Assam,DHUBRI,2011,Winter     ,Paddy,35500,54327
+Assam,DHUBRI,2012,Autumn     ,Paddy,4298,2341
+Assam,DHUBRI,2012,Winter     ,Paddy,35600,56164
+Assam,DHUBRI,2013,Autumn     ,Paddy,4169,5349
+Assam,DHUBRI,2013,Summer     ,Paddy,47295,167391
+Assam,DHUBRI,2013,Winter     ,Paddy,35140,63545
+Assam,DHUBRI,2014,Autumn     ,Paddy,4075,3852
+Assam,DHUBRI,2014,Summer     ,Paddy,51015,193213
+Assam,DHUBRI,2014,Winter     ,Paddy,30968,39396
+Assam,DIBRUGARH,2011,Autumn     ,Paddy,95,116
+Assam,DIBRUGARH,2011,Summer     ,Paddy,310,851
+Assam,DIBRUGARH,2011,Winter     ,Paddy,77004,104292
+Assam,DIBRUGARH,2012,Autumn     ,Paddy,280,363
+Assam,DIBRUGARH,2012,Winter     ,Paddy,76892,159734
+Assam,DIBRUGARH,2013,Autumn     ,Paddy,188,325
+Assam,DIBRUGARH,2013,Summer     ,Paddy,403,1201
+Assam,DIBRUGARH,2013,Winter     ,Paddy,77479,146528
+Assam,DIBRUGARH,2014,Autumn     ,Paddy,333,477
+Assam,DIBRUGARH,2014,Summer     ,Paddy,1256,3693
+Assam,DIBRUGARH,2014,Winter     ,Paddy,73139,124921
+Assam,DIMA HASAO,2011,Autumn     ,Paddy,6590,8923
+Assam,DIMA HASAO,2011,Winter     ,Paddy,8980,27164
+Assam,DIMA HASAO,2012,Autumn     ,Paddy,6548,11327
+Assam,DIMA HASAO,2012,Winter     ,Paddy,9645,25631
+Assam,DIMA HASAO,2013,Autumn     ,Paddy,6670,11477
+Assam,DIMA HASAO,2013,Summer     ,Paddy,28,83
+Assam,DIMA HASAO,2013,Winter     ,Paddy,9125,20277
+Assam,DIMA HASAO,2014,Autumn     ,Paddy,5607,10300
+Assam,DIMA HASAO,2014,Winter     ,Paddy,9093,24211
+Assam,GOALPARA,2011,Autumn     ,Paddy,8690,10501
+Assam,GOALPARA,2011,Summer     ,Paddy,19000,59394
+Assam,GOALPARA,2011,Winter     ,Paddy,49000,74569
+Assam,GOALPARA,2012,Autumn     ,Paddy,8410,11552
+Assam,GOALPARA,2012,Winter     ,Paddy,49200,93968
+Assam,GOALPARA,2013,Autumn     ,Paddy,8624,9625
+Assam,GOALPARA,2013,Summer     ,Paddy,25290,82243
+Assam,GOALPARA,2013,Winter     ,Paddy,49245,116414
+Assam,GOALPARA,2014,Autumn     ,Paddy,8062,7552
+Assam,GOALPARA,2014,Summer     ,Paddy,25434,81058
+Assam,GOALPARA,2014,Winter     ,Paddy,50772,105221
+Assam,GOLAGHAT,2011,Autumn     ,Paddy,2489,4779
+Assam,GOLAGHAT,2011,Summer     ,Paddy,4555,11564
+Assam,GOLAGHAT,2011,Winter     ,Paddy,100991,214747
+Assam,GOLAGHAT,2012,Autumn     ,Paddy,1971,2460
+Assam,GOLAGHAT,2012,Winter     ,Paddy,117523,276307
+Assam,GOLAGHAT,2013,Autumn     ,Paddy,1915,4432
+Assam,GOLAGHAT,2013,Summer     ,Paddy,4838,11716
+Assam,GOLAGHAT,2013,Winter     ,Paddy,117398,278929
+Assam,GOLAGHAT,2014,Autumn     ,Paddy,1798,3411
+Assam,GOLAGHAT,2014,Summer     ,Paddy,7663,16840
+Assam,GOLAGHAT,2014,Winter     ,Paddy,114163,256004
+Assam,HAILAKANDI,2011,Autumn     ,Paddy,5800,13264
+Assam,HAILAKANDI,2011,Summer     ,Paddy,3450,8684
+Assam,HAILAKANDI,2011,Winter     ,Paddy,41350,90257
+Assam,HAILAKANDI,2012,Autumn     ,Paddy,3500,6940
+Assam,HAILAKANDI,2012,Winter     ,Paddy,42100,104709
+Assam,HAILAKANDI,2013,Autumn     ,Paddy,3090,3287
+Assam,HAILAKANDI,2013,Summer     ,Paddy,2035,3596
+Assam,HAILAKANDI,2013,Winter     ,Paddy,41550,106983
+Assam,HAILAKANDI,2014,Autumn     ,Paddy,1973,5173
+Assam,HAILAKANDI,2014,Summer     ,Paddy,2120,3744
+Assam,HAILAKANDI,2014,Winter     ,Paddy,41250,117383
+Assam,JORHAT,2011,Autumn     ,Paddy,3083,2195
+Assam,JORHAT,2011,Summer     ,Paddy,4035,4968
+Assam,JORHAT,2011,Winter     ,Paddy,85627,160882
+Assam,JORHAT,2012,Autumn     ,Paddy,3272,2652
+Assam,JORHAT,2012,Winter     ,Paddy,72092,165955
+Assam,JORHAT,2013,Autumn     ,Paddy,3267,3282
+Assam,JORHAT,2013,Summer     ,Paddy,4663,7233
+Assam,JORHAT,2013,Winter     ,Paddy,86181,178210
+Assam,JORHAT,2014,Autumn     ,Paddy,3396,4569
+Assam,JORHAT,2014,Summer     ,Paddy,4632,7242
+Assam,JORHAT,2014,Winter     ,Paddy,83865,164739
+Assam,KAMRUP,2011,Autumn     ,Paddy,13835,18773
+Assam,KAMRUP,2011,Summer     ,Paddy,34899,93425
+Assam,KAMRUP,2011,Winter     ,Paddy,73996,123666
+Assam,KAMRUP,2012,Autumn     ,Paddy,13284,10189
+Assam,KAMRUP,2012,Winter     ,Paddy,66688,142467
+Assam,KAMRUP,2013,Autumn     ,Paddy,13511,15175
+Assam,KAMRUP,2013,Summer     ,Paddy,36808,107079
+Assam,KAMRUP,2013,Winter     ,Paddy,71020,152006
+Assam,KAMRUP,2014,Autumn     ,Paddy,9246,13988
+Assam,KAMRUP,2014,Summer     ,Paddy,36661,106170
+Assam,KAMRUP,2014,Winter     ,Paddy,67720,140739
+Assam,KAMRUP METRO,2011,Autumn     ,Paddy,1211,1480
+Assam,KAMRUP METRO,2011,Summer     ,Paddy,8050,23417
+Assam,KAMRUP METRO,2011,Winter     ,Paddy,20500,40122
+Assam,KAMRUP METRO,2012,Autumn     ,Paddy,1200,1169
+Assam,KAMRUP METRO,2012,Winter     ,Paddy,20348,48404
+Assam,KAMRUP METRO,2013,Autumn     ,Paddy,895,1181
+Assam,KAMRUP METRO,2013,Summer     ,Paddy,7990,23626
+Assam,KAMRUP METRO,2013,Winter     ,Paddy,20343,44745
+Assam,KAMRUP METRO,2014,Autumn     ,Paddy,845,1208
+Assam,KAMRUP METRO,2014,Summer     ,Paddy,7967,23766
+Assam,KAMRUP METRO,2014,Winter     ,Paddy,20398,39782
+Assam,KARBI ANGLONG,2011,Autumn     ,Paddy,10876,14964
+Assam,KARBI ANGLONG,2011,Summer     ,Paddy,2237,3768
+Assam,KARBI ANGLONG,2011,Winter     ,Paddy,108452,155670
+Assam,KARBI ANGLONG,2012,Autumn     ,Paddy,9170,12544
+Assam,KARBI ANGLONG,2012,Winter     ,Paddy,117679,181966
+Assam,KARBI ANGLONG,2013,Autumn     ,Paddy,9103,12411
+Assam,KARBI ANGLONG,2013,Summer     ,Paddy,2256,4257
+Assam,KARBI ANGLONG,2013,Winter     ,Paddy,118841,203249
+Assam,KARBI ANGLONG,2014,Autumn     ,Paddy,6829,9986
+Assam,KARBI ANGLONG,2014,Summer     ,Paddy,2334,3981
+Assam,KARBI ANGLONG,2014,Winter     ,Paddy,118833,204222
+Assam,KARIMGANJ,2011,Autumn     ,Paddy,2240,4223
+Assam,KARIMGANJ,2011,Summer     ,Paddy,6578,12544
+Assam,KARIMGANJ,2011,Winter     ,Paddy,65617,182975
+Assam,KARIMGANJ,2012,Autumn     ,Paddy,2260,4148
+Assam,KARIMGANJ,2012,Winter     ,Paddy,69735,136279
+Assam,KARIMGANJ,2013,Autumn     ,Paddy,1255,1576
+Assam,KARIMGANJ,2013,Summer     ,Paddy,6850,13501
+Assam,KARIMGANJ,2013,Winter     ,Paddy,69394,138893
+Assam,KARIMGANJ,2014,Autumn     ,Paddy,982,1616
+Assam,KARIMGANJ,2014,Summer     ,Paddy,6895,11087
+Assam,KARIMGANJ,2014,Winter     ,Paddy,69525,130527
+Assam,KOKRAJHAR,2011,Autumn     ,Paddy,20698,32540
+Assam,KOKRAJHAR,2011,Summer     ,Paddy,22644,55774
+Assam,KOKRAJHAR,2011,Winter     ,Paddy,62725,97134
+Assam,KOKRAJHAR,2012,Autumn     ,Paddy,21910,28393
+Assam,KOKRAJHAR,2012,Winter     ,Paddy,66580,101640
+Assam,KOKRAJHAR,2013,Autumn     ,Paddy,21800,25856
+Assam,KOKRAJHAR,2013,Summer     ,Paddy,23056,69796
+Assam,KOKRAJHAR,2013,Winter     ,Paddy,64633,127450
+Assam,KOKRAJHAR,2014,Autumn     ,Paddy,19867,31130
+Assam,KOKRAJHAR,2014,Summer     ,Paddy,23065,62820
+Assam,KOKRAJHAR,2014,Winter     ,Paddy,65450,119039
+Assam,LAKHIMPUR,2011,Autumn     ,Paddy,14499,13871
+Assam,LAKHIMPUR,2011,Summer     ,Paddy,21815,36479
+Assam,LAKHIMPUR,2011,Winter     ,Paddy,114250,210176
+Assam,LAKHIMPUR,2012,Autumn     ,Paddy,14829,16891
+Assam,LAKHIMPUR,2012,Winter     ,Paddy,111100,249676
+Assam,LAKHIMPUR,2013,Autumn     ,Paddy,13000,19615
+Assam,LAKHIMPUR,2013,Summer     ,Paddy,16400,25187
+Assam,LAKHIMPUR,2013,Winter     ,Paddy,111700,215763
+Assam,LAKHIMPUR,2014,Autumn     ,Paddy,6861,10015
+Assam,LAKHIMPUR,2014,Summer     ,Paddy,14700,26717
+Assam,LAKHIMPUR,2014,Winter     ,Paddy,102605,224011
+Assam,MARIGAON,2011,Autumn     ,Paddy,3736,2864
+Assam,MARIGAON,2011,Summer     ,Paddy,43516,122715
+Assam,MARIGAON,2011,Winter     ,Paddy,42745,80418
+Assam,MARIGAON,2012,Autumn     ,Paddy,3645,5291
+Assam,MARIGAON,2012,Winter     ,Paddy,39830,77445
+Assam,MARIGAON,2013,Autumn     ,Paddy,2500,4133
+Assam,MARIGAON,2013,Summer     ,Paddy,41120,134956
+Assam,MARIGAON,2013,Winter     ,Paddy,46495,109410
+Assam,MARIGAON,2014,Autumn     ,Paddy,3272,7554
+Assam,MARIGAON,2014,Summer     ,Paddy,42535,132411
+Assam,MARIGAON,2014,Winter     ,Paddy,44115,74261
+Assam,NAGAON,2011,Autumn     ,Paddy,14540,22093
+Assam,NAGAON,2011,Summer     ,Paddy,41332,93853
+Assam,NAGAON,2011,Winter     ,Paddy,136220,208257
+Assam,NAGAON,2012,Autumn     ,Paddy,12985,19932
+Assam,NAGAON,2012,Winter     ,Paddy,131456,246466
+Assam,NAGAON,2013,Autumn     ,Paddy,12088,18018
+Assam,NAGAON,2013,Summer     ,Paddy,44319,122928
+Assam,NAGAON,2013,Winter     ,Paddy,140244,295177
+Assam,NAGAON,2014,Autumn     ,Paddy,11711,19345
+Assam,NAGAON,2014,Summer     ,Paddy,43088,120369
+Assam,NAGAON,2014,Winter     ,Paddy,146934,270857
+Assam,NALBARI,2011,Autumn     ,Paddy,4525,3860
+Assam,NALBARI,2011,Summer     ,Paddy,10200,26653
+Assam,NALBARI,2011,Winter     ,Paddy,65000,110443
+Assam,NALBARI,2012,Autumn     ,Paddy,4930,6864
+Assam,NALBARI,2012,Winter     ,Paddy,65200,131912
+Assam,NALBARI,2013,Autumn     ,Paddy,4930,5701
+Assam,NALBARI,2013,Summer     ,Paddy,11000,31823
+Assam,NALBARI,2013,Winter     ,Paddy,62000,115850
+Assam,NALBARI,2014,Autumn     ,Paddy,2000,3167
+Assam,NALBARI,2014,Summer     ,Paddy,12375,36420
+Assam,NALBARI,2014,Winter     ,Paddy,62000,144858
+Assam,SIVASAGAR,2011,Autumn     ,Paddy,62,52
+Assam,SIVASAGAR,2011,Summer     ,Paddy,336,922
+Assam,SIVASAGAR,2011,Winter     ,Paddy,96696,213241
+Assam,SIVASAGAR,2012,Autumn     ,Paddy,129,150
+Assam,SIVASAGAR,2012,Winter     ,Paddy,95535,236386
+Assam,SIVASAGAR,2013,Autumn     ,Paddy,200,300
+Assam,SIVASAGAR,2013,Summer     ,Paddy,553,1649
+Assam,SIVASAGAR,2013,Winter     ,Paddy,95779,205295
+Assam,SIVASAGAR,2014,Autumn     ,Paddy,86,134
+Assam,SIVASAGAR,2014,Summer     ,Paddy,2099,6171
+Assam,SIVASAGAR,2014,Winter     ,Paddy,95674,199785
+Assam,SONITPUR,2011,Autumn     ,Paddy,26281,38519
+Assam,SONITPUR,2011,Summer     ,Paddy,17394,58427
+Assam,SONITPUR,2011,Winter     ,Paddy,129240,212781
+Assam,SONITPUR,2012,Autumn     ,Paddy,21466,32422
+Assam,SONITPUR,2012,Winter     ,Paddy,122123,237845
+Assam,SONITPUR,2013,Autumn     ,Paddy,20669,32904
+Assam,SONITPUR,2013,Summer     ,Paddy,21493,67738
+Assam,SONITPUR,2013,Winter     ,Paddy,123892,240086
+Assam,SONITPUR,2014,Autumn     ,Paddy,18027,32220
+Assam,SONITPUR,2014,Summer     ,Paddy,25008,81831
+Assam,SONITPUR,2014,Winter     ,Paddy,130052,266895
+Assam,TINSUKIA,2011,Autumn     ,Paddy,6202,11704
+Assam,TINSUKIA,2011,Summer     ,Paddy,86,236
+Assam,TINSUKIA,2011,Winter     ,Paddy,58355,106084
+Assam,TINSUKIA,2012,Autumn     ,Paddy,5806,7964
+Assam,TINSUKIA,2012,Winter     ,Paddy,53003,86946
+Assam,TINSUKIA,2013,Autumn     ,Paddy,5346,7595
+Assam,TINSUKIA,2013,Summer     ,Paddy,85,253
+Assam,TINSUKIA,2013,Winter     ,Paddy,56890,97987
+Assam,TINSUKIA,2014,Autumn     ,Paddy,5670,7682
+Assam,TINSUKIA,2014,Summer     ,Paddy,201,590
+Assam,TINSUKIA,2014,Winter     ,Paddy,57642,97271
+Assam,UDALGURI,2011,Autumn     ,Paddy,28384,27949
+Assam,UDALGURI,2011,Summer     ,Paddy,5770,10693
+Assam,UDALGURI,2011,Winter     ,Paddy,61485,95468
+Assam,UDALGURI,2012,Autumn     ,Paddy,25140,29510
+Assam,UDALGURI,2012,Winter     ,Paddy,62167,112707
+Assam,UDALGURI,2013,Autumn     ,Paddy,21145,20367
+Assam,UDALGURI,2013,Summer     ,Paddy,6269,18767
+Assam,UDALGURI,2013,Winter     ,Paddy,63205,91722
+Assam,UDALGURI,2014,Autumn     ,Paddy,25642,24554
+Assam,UDALGURI,2014,Summer     ,Paddy,5805,16349
+Assam,UDALGURI,2014,Winter     ,Paddy,63210,124317
+Karnataka,BANGALORE RURAL,1997,Kharif     ,Paddy,11240,39367
+Karnataka,BANGALORE RURAL,1997,Rabi       ,Paddy,195,632
+Karnataka,BANGALORE RURAL,1997,Summer     ,Paddy,4350,18588
+Karnataka,BELGAUM,1997,Kharif     ,Paddy,63734,137452
+Karnataka,BELGAUM,1997,Summer     ,Paddy,40,171
+Karnataka,BELLARY,1997,Kharif     ,Paddy,34112,145019
+Karnataka,BELLARY,1997,Summer     ,Paddy,23573,98311
+Karnataka,BENGALURU URBAN,1997,Kharif     ,Paddy,3507,16540
+Karnataka,BENGALURU URBAN,1997,Summer     ,Paddy,1252,5232
+Karnataka,BIDAR,1997,Kharif     ,Paddy,9385,9155
+Karnataka,BIDAR,1997,Rabi       ,Paddy,2,5
+Karnataka,BIJAPUR,1997,Kharif     ,Paddy,450,952
+Karnataka,CHIKMAGALUR,1997,Kharif     ,Paddy,48109,169273
+Karnataka,CHIKMAGALUR,1997,Summer     ,Paddy,3431,18051
+Karnataka,CHITRADURGA,1997,Kharif     ,Paddy,39725,204602
+Karnataka,CHITRADURGA,1997,Rabi       ,Paddy,355,1133
+Karnataka,CHITRADURGA,1997,Summer     ,Paddy,32958,166203
+Karnataka,DAKSHIN KANNAD,1997,Kharif     ,Paddy,92885,270059
+Karnataka,DAKSHIN KANNAD,1997,Rabi       ,Paddy,40539,117627
+Karnataka,DAKSHIN KANNAD,1997,Summer     ,Paddy,5312,15963
+Karnataka,DHARWAD,1997,Kharif     ,Paddy,89655,155033
+Karnataka,DHARWAD,1997,Rabi       ,Paddy,19,44
+Karnataka,DHARWAD,1997,Summer     ,Paddy,2464,9267
+Karnataka,GULBARGA,1997,Kharif     ,Paddy,6591,18259
+Karnataka,GULBARGA,1997,Rabi       ,Paddy,1846,5940
+Karnataka,GULBARGA,1997,Summer     ,Paddy,636,2687
+Karnataka,HASSAN,1997,Kharif     ,Paddy,53948,220500
+Karnataka,HASSAN,1997,Rabi       ,Paddy,4744,19042
+Karnataka,HASSAN,1997,Summer     ,Paddy,8904,41677
+Karnataka,KODAGU,1997,Kharif     ,Paddy,39414,131138
+Karnataka,KODAGU,1997,Rabi       ,Paddy,83,269
+Karnataka,KODAGU,1997,Summer     ,Paddy,835,3568
+Karnataka,KOLAR,1997,Kharif     ,Paddy,12130,40165
+Karnataka,KOLAR,1997,Rabi       ,Paddy,330,1070
+Karnataka,KOLAR,1997,Summer     ,Paddy,7914,33073
+Karnataka,MANDYA,1997,Kharif     ,Paddy,57997,226249
+Karnataka,MANDYA,1997,Rabi       ,Paddy,1619,5249
+Karnataka,MANDYA,1997,Summer     ,Paddy,25359,126767
+Karnataka,MYSORE,1997,Kharif     ,Paddy,105069,459876
+Karnataka,MYSORE,1997,Rabi       ,Paddy,817,2649
+Karnataka,MYSORE,1997,Summer     ,Paddy,20560,85453
+Karnataka,RAICHUR,1997,Kharif     ,Paddy,92636,431073
+Karnataka,RAICHUR,1997,Summer     ,Paddy,79540,285001
+Karnataka,SHIMOGA,1997,Kharif     ,Paddy,162939,555483
+Karnataka,SHIMOGA,1997,Summer     ,Paddy,38347,178942
+Karnataka,TUMKUR,1997,Kharif     ,Paddy,22589,86756
+Karnataka,TUMKUR,1997,Rabi       ,Paddy,909,2943
+Karnataka,TUMKUR,1997,Summer     ,Paddy,10102,47284
+Karnataka,UTTAR KANNAD,1997,Kharif     ,Paddy,85415,192088
+Karnataka,UTTAR KANNAD,1997,Rabi       ,Paddy,2431,7327
+Karnataka,UTTAR KANNAD,1997,Summer     ,Paddy,2467,7329
+Madhya Pradesh,BALAGHAT,1997,Kharif     ,Paddy,243900,257700
+Madhya Pradesh,BETUL,1997,Kharif     ,Paddy,30600,33900
+Madhya Pradesh,BHIND,1997,Kharif     ,Paddy,13000,15600
+Madhya Pradesh,BHOPAL,1997,Kharif     ,Paddy,600,400
+Madhya Pradesh,CHHATARPUR,1997,Kharif     ,Paddy,19900,13900
+Madhya Pradesh,CHHINDWARA,1997,Kharif     ,Paddy,19700,14900
+Madhya Pradesh,DAMOH,1997,Kharif     ,Paddy,52600,34700
+Madhya Pradesh,DATIA,1997,Kharif     ,Paddy,600,700
+Madhya Pradesh,DEWAS,1997,Kharif     ,Paddy,700,500
+Madhya Pradesh,DHAR,1997,Kharif     ,Paddy,3900,2300
+Madhya Pradesh,GUNA,1997,Kharif     ,Paddy,1500,1100
+Madhya Pradesh,GWALIOR,1997,Kharif     ,Paddy,29800,63700
+Madhya Pradesh,HOSHANGABAD,1997,Kharif     ,Paddy,10000,12800
+Madhya Pradesh,JABALPUR,1997,Kharif     ,Paddy,161900,86200
+Madhya Pradesh,JHABUA,1997,Kharif     ,Paddy,27400,16900
+Madhya Pradesh,KHANDWA,1997,Kharif     ,Paddy,25500,26400
+Madhya Pradesh,KHARGONE,1997,Kharif     ,Paddy,10400,6400
+Madhya Pradesh,MANDLA,1997,Kharif     ,Paddy,173800,106500
+Madhya Pradesh,MORENA,1997,Kharif     ,Paddy,5200,9800
+Madhya Pradesh,NARSINGHPUR,1997,Kharif     ,Paddy,8200,9000
+Madhya Pradesh,PANNA,1997,Kharif     ,Paddy,62600,40300
+Madhya Pradesh,RAISEN,1997,Kharif     ,Paddy,3800,3400
+Madhya Pradesh,RAJGARH,1997,Kharif     ,Paddy,419700,342600
+Madhya Pradesh,RATLAM,1997,Kharif     ,Paddy,3700,2500
+Madhya Pradesh,REWA,1997,Kharif     ,Paddy,123200,62400
+Madhya Pradesh,SAGAR,1997,Kharif     ,Paddy,8700,5800
+Madhya Pradesh,SATNA,1997,Kharif     ,Paddy,90800,45900
+Madhya Pradesh,SEHORE,1997,Kharif     ,Paddy,1800,1000
+Madhya Pradesh,SEONI,1997,Kharif     ,Paddy,102800,91800
+Madhya Pradesh,SHAHDOL,1997,Kharif     ,Paddy,244400,152900
+Madhya Pradesh,SHAJAPUR,1997,Kharif     ,Paddy,800,600
+Madhya Pradesh,SHIVPURI,1997,Kharif     ,Paddy,5000,5400
+Madhya Pradesh,SIDHI,1997,Kharif     ,Paddy,105800,43800
+Madhya Pradesh,TIKAMGARH,1997,Kharif     ,Paddy,21800,18200
+Madhya Pradesh,VIDISHA,1997,Kharif     ,Paddy,800,500
+Odisha,ANUGUL,1997,Autumn     ,Paddy,21779,23578
+Odisha,ANUGUL,1997,Summer     ,Paddy,4012,7184
+Odisha,ANUGUL,1997,Winter     ,Paddy,86616,124082
+Odisha,BALANGIR,1997,Autumn     ,Paddy,86169,79093
+Odisha,BALANGIR,1997,Summer     ,Paddy,2742,3237
+Odisha,BALANGIR,1997,Winter     ,Paddy,131045,189134
+Odisha,BALESHWAR,1997,Autumn     ,Paddy,4099,3528
+Odisha,BALESHWAR,1997,Summer     ,Paddy,26489,45585
+Odisha,BALESHWAR,1997,Winter     ,Paddy,218263,328320
+Odisha,BARGARH,1997,Autumn     ,Paddy,56521,71238
+Odisha,BARGARH,1997,Summer     ,Paddy,50733,110657
+Odisha,BARGARH,1997,Winter     ,Paddy,184748,337658
+Odisha,BHADRAK,1997,Autumn     ,Paddy,942,1365
+Odisha,BHADRAK,1997,Summer     ,Paddy,14941,21553
+Odisha,BHADRAK,1997,Winter     ,Paddy,170409,302626
+Odisha,BOUDH,1997,Autumn     ,Paddy,10899,11558
+Odisha,BOUDH,1997,Summer     ,Paddy,1625,2854
+Odisha,BOUDH,1997,Winter     ,Paddy,57683,87912
+Odisha,CUTTACK,1997,Autumn     ,Paddy,17853,22816
+Odisha,CUTTACK,1997,Summer     ,Paddy,8517,14816
+Odisha,CUTTACK,1997,Winter     ,Paddy,133613,195620
+Odisha,DEOGARH,1997,Autumn     ,Paddy,16904,17734
+Odisha,DEOGARH,1997,Summer     ,Paddy,3514,4370
+Odisha,DEOGARH,1997,Winter     ,Paddy,29312,38405
+Odisha,DHENKANAL,1997,Autumn     ,Paddy,20607,19162
+Odisha,DHENKANAL,1997,Summer     ,Paddy,3569,7593
+Odisha,DHENKANAL,1997,Winter     ,Paddy,102055,149524
+Odisha,GAJAPATI,1997,Autumn     ,Paddy,1270,1239
+Odisha,GAJAPATI,1997,Summer     ,Paddy,447,524
+Odisha,GAJAPATI,1997,Winter     ,Paddy,38280,52235
+Odisha,GANJAM,1997,Autumn     ,Paddy,2670,3869
+Odisha,GANJAM,1997,Summer     ,Paddy,245,406
+Odisha,GANJAM,1997,Winter     ,Paddy,266285,398674
+Odisha,JAGATSINGHAPUR,1997,Autumn     ,Paddy,6304,7711
+Odisha,JAGATSINGHAPUR,1997,Summer     ,Paddy,7099,14210
+Odisha,JAGATSINGHAPUR,1997,Winter     ,Paddy,94579,110378
+Odisha,JAJAPUR,1997,Autumn     ,Paddy,20964,21410
+Odisha,JAJAPUR,1997,Summer     ,Paddy,8176,15427
+Odisha,JAJAPUR,1997,Winter     ,Paddy,127567,141472
+Odisha,JHARSUGUDA,1997,Autumn     ,Paddy,25020,30960
+Odisha,JHARSUGUDA,1997,Summer     ,Paddy,487,964
+Odisha,JHARSUGUDA,1997,Winter     ,Paddy,28705,46068
+Odisha,KALAHANDI,1997,Autumn     ,Paddy,79457,70773
+Odisha,KALAHANDI,1997,Summer     ,Paddy,3162,3488
+Odisha,KALAHANDI,1997,Winter     ,Paddy,148041,242741
+Odisha,KANDHAMAL,1997,Autumn     ,Paddy,16863,17627
+Odisha,KANDHAMAL,1997,Summer     ,Paddy,483,821
+Odisha,KANDHAMAL,1997,Winter     ,Paddy,42610,64374
+Odisha,KENDRAPARA,1997,Autumn     ,Paddy,7204,10365
+Odisha,KENDRAPARA,1997,Summer     ,Paddy,10925,19894
+Odisha,KENDRAPARA,1997,Winter     ,Paddy,135812,151539
+Odisha,KENDUJHAR,1997,Autumn     ,Paddy,59966,57805
+Odisha,KENDUJHAR,1997,Summer     ,Paddy,2585,5723
+Odisha,KENDUJHAR,1997,Winter     ,Paddy,154981,219776
+Odisha,KHORDHA,1997,Autumn     ,Paddy,1357,1469
+Odisha,KHORDHA,1997,Summer     ,Paddy,5709,9143
+Odisha,KHORDHA,1997,Winter     ,Paddy,107538,151844
+Odisha,KORAPUT,1997,Autumn     ,Paddy,31072,28394
+Odisha,KORAPUT,1997,Summer     ,Paddy,3510,4425
+Odisha,KORAPUT,1997,Winter     ,Paddy,75606,98803
+Odisha,MALKANGIRI,1997,Autumn     ,Paddy,10870,7015
+Odisha,MALKANGIRI,1997,Summer     ,Paddy,32,20
+Odisha,MALKANGIRI,1997,Winter     ,Paddy,74197,54703
+Odisha,MAYURBHANJ,1997,Autumn     ,Paddy,64710,62400
+Odisha,MAYURBHANJ,1997,Summer     ,Paddy,6091,10055
+Odisha,MAYURBHANJ,1997,Winter     ,Paddy,270601,396907
+Odisha,NABARANGPUR,1997,Autumn     ,Paddy,42277,34046
+Odisha,NABARANGPUR,1997,Summer     ,Paddy,541,644
+Odisha,NABARANGPUR,1997,Winter     ,Paddy,106876,133844
+Odisha,NAYAGARH,1997,Autumn     ,Paddy,3412,4595
+Odisha,NAYAGARH,1997,Summer     ,Paddy,289,433
+Odisha,NAYAGARH,1997,Winter     ,Paddy,102402,180684
+Odisha,NUAPADA,1997,Autumn     ,Paddy,40130,27994
+Odisha,NUAPADA,1997,Summer     ,Paddy,2640,3909
+Odisha,NUAPADA,1997,Winter     ,Paddy,64504,71235
+Odisha,PURI,1997,Autumn     ,Paddy,1912,2507
+Odisha,PURI,1997,Summer     ,Paddy,22211,38925
+Odisha,PURI,1997,Winter     ,Paddy,139036,142956
+Odisha,RAYAGADA,1997,Autumn     ,Paddy,8212,7292
+Odisha,RAYAGADA,1997,Summer     ,Paddy,1371,1718
+Odisha,RAYAGADA,1997,Winter     ,Paddy,51006,66758
+Odisha,SAMBALPUR,1997,Autumn     ,Paddy,43928,59025
+Odisha,SAMBALPUR,1997,Summer     ,Paddy,19119,53803
+Odisha,SAMBALPUR,1997,Winter     ,Paddy,87633,164362
+Odisha,SONEPUR,1997,Autumn     ,Paddy,19271,23301
+Odisha,SONEPUR,1997,Summer     ,Paddy,21619,47259
+Odisha,SONEPUR,1997,Winter     ,Paddy,76000,141540
+Odisha,SUNDARGARH,1997,Autumn     ,Paddy,104520,82983
+Odisha,SUNDARGARH,1997,Summer     ,Paddy,2881,3943
+Odisha,SUNDARGARH,1997,Winter     ,Paddy,128385,153858
+Puducherry,KARAIKAL,2012,Kharif     ,Paddy,434,1824
+Puducherry,KARAIKAL,2013,Kharif     ,Paddy,378,1089
+Puducherry,KARAIKAL,2013,Summer     ,Paddy,8,27
+Puducherry,PONDICHERRY,2012,Kharif     ,Paddy,2818,14214
+Puducherry,PONDICHERRY,2013,Kharif     ,Paddy,2954,15715
+Puducherry,PONDICHERRY,2013,Summer     ,Paddy,3761,19406
+Puducherry,YANAM,2012,Kharif     ,Paddy,307,1416
+Puducherry,YANAM,2013,Kharif     ,Paddy,339,1330
